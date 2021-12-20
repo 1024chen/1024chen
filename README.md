@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **1024chen/1024chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[中文](./README.md) | [English](./readme_en.md)
+
+[中文](./README.md) | [English](./README_en.md)
+
+### 欢迎到来 👋
+
+我是一个极其渴望知识的开发者，持续学习中🚐
+
+我的学习目标：
+
+* Rust
+* WASM
+* Racket
+
+期待与你的共同进步
