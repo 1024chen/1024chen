@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 * WASM
 * Racket
 
-期待与你的共同进步
+期待与你的共同进步💹
