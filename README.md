@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[中文](./README.md) | [English](./README_en.md)
+[中文](./README.md) | [English](./readme.md)
 
 ### 欢迎来客 👋
 
